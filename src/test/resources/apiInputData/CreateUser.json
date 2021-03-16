@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "username": "John",
+  "firstName": "Shelly",
+  "lastName": "Kumar",
+  "email": "kumar.shelly@gmail.com",
+  "password": "yubv",
+  "phone": "9807656789",
+  "userStatus": 1
+}

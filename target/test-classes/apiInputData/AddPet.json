@@ -1,0 +1,23 @@
+{
+	"id": 104,
+	"category": {
+		"id": 0,
+		"name": "string"
+	},
+	"name": "RobberMan",
+	"photoUrls": [
+		"string"
+	],
+	"tags": [
+		{
+			"id": 0,
+			"name": "string"
+		}
+	],
+	"status": "available"
+}
+
+
+
+
+

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "Tom",
+    "firstName": "Pusy",
+    "lastName": "Cat",
+    "email": "Tom.Cat@gmail.com",
+    "password": "yubgf",
+    "phone": "8790017381",
+    "userStatus": 1
+  },
+  {
+    "id": 2,
+    "username": "Jerry",
+    "firstName": "Mouse",
+    "lastName": "Merry",
+    "email": "Jerry.Merry@gmail.com",
+    "password": "uhnbgf",
+    "phone": "9878976543",
+    "userStatus": 1
+  }
+
+]
