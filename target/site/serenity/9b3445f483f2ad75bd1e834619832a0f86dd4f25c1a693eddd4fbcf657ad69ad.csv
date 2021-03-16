@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Automation Suite for PetStore API Testing","Adding Pet to the Store","SUCCESS","2021-03-16T23:12:52.844+05:30[Asia/Calcutta]","0.0","11.24"
-"Automation Suite for PetStore API Testing","Place the Order","SUCCESS","2021-03-16T23:13:04.096+05:30[Asia/Calcutta]","0.0","5.2"
-"Automation Suite for PetStore API Testing","Create User Operations","SUCCESS","2021-03-16T23:13:09.298+05:30[Asia/Calcutta]","0.0","7.68"
+"Automation Suite for PetStore API Testing","Adding Pet to the Store","SUCCESS","2021-03-16T18:13:18.823Z[Europe/London]","0.0","9.97"
+"Automation Suite for PetStore API Testing","Place the Order","SUCCESS","2021-03-16T18:13:28.811Z[Europe/London]","0.0","2.05"
+"Automation Suite for PetStore API Testing","Create User Operations","SUCCESS","2021-03-16T18:13:30.867Z[Europe/London]","0.0","3.08"
