@@ -13,7 +13,6 @@ public class APIController {
 	public String STORE_ENDPOINT = BASE_URL + "/store/order";
 	public String USER_ENDPOINT = BASE_URL + "/user";
 	
-	public int id=0;
 	
 	public String readJSONFile(String FilePath) throws org.json.simple.parser.ParseException {
 		String Json = "";
@@ -21,7 +20,6 @@ public class APIController {
 		try {
 			Object obj = parser.parse(new FileReader(FilePath));
 			JsonObject jsonobj = (JsonObject) obj;
-			id = Integer.parseInt(jsonobj.get("id").toString());
 			Json = jsonobj.toString();
 
 		} catch (IOException e) {
@@ -44,5 +42,19 @@ public class APIController {
 		return Json;
 	}
 	
+	
+	public String getJSONValueUsingKey(String FilePath , String Key) {
+		String value="";
+		JsonParser parser = new JsonParser();
+		try {
+			Object obj = parser.parse(new FileReader(FilePath));
+			JsonObject jsonobj = (JsonObject) obj;
+			value = jsonobj.get(Key).toString();
+			
+		}catch(Exception e) {
+			
+		}
+		return value;
+	}
 	
 }

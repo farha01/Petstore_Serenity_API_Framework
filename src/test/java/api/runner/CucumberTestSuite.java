@@ -9,6 +9,6 @@ import org.junit.runner.RunWith;
         plugin = {"pretty"}
         ,features = {"src/test/resources/features"}
         ,glue = {"api.definitions"}
-        ,tags = {"@PetStoreServices"}
+        ,tags = {"@PetStoreNegitive,@PetStorePositive"}
 )
 public class CucumberTestSuite {}

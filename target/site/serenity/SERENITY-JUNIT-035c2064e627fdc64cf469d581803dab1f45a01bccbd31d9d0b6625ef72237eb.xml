@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Automation Suite for PetStore API Testing" skipped="0" tests="3" time="15.1" timestamp="2021-03-16 06:13:18"><testcase name="Adding Pet to the Store"/><testcase name="Place the Order"/><testcase name="Create User Operations"/></testsuite>

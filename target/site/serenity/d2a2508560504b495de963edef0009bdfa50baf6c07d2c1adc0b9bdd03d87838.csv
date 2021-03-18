@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Automation Suite for PetStore API Testing","Verify Adding Pet to the Store with Invalid Input","SUCCESS","2021-03-18T17:00:35.966Z[Europe/London]","0.0","5.48"
+"Automation Suite for PetStore API Testing","Verify Getting Pet from the Store with Invalid Input","SUCCESS","2021-03-18T17:00:41.451Z[Europe/London]","0.0","0.71"
+"Automation Suite for PetStore API Testing","Verify Deleting the Pet with Invalid Pet ID","SUCCESS","2021-03-18T17:00:42.165Z[Europe/London]","0.0","0.96"
+"Automation Suite for PetStore API Testing","Verify Delete the Purchase order by Invalid ID","SUCCESS","2021-03-18T17:00:43.127Z[Europe/London]","0.0","0.53"
+"Automation Suite for PetStore API Testing","Verify Getting the User with Invalid UserName","SUCCESS","2021-03-18T17:00:43.662Z[Europe/London]","0.0","0.53"
+"Automation Suite for PetStore API Testing","Verify Deleting the User with Invalid UserName","SUCCESS","2021-03-18T17:00:44.19Z[Europe/London]","0.0","0.52"
